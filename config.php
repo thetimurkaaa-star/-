@@ -1,7 +1,7 @@
 <?php
 // config.php
 // Заполни токен бота и Telegram ID главного администратора.
-const BOT_TOKEN = '8719618064:AAEaj3FxkehKe2TZtZXSlnTiMP4asLjd5FM';
+const BOT_TOKEN = '8719618064:AAGA5jj57a_5CIN2vupsyYTtOhwMFe2n__M';
 const MAIN_ADMIN_ID = 1282393103;
 
 // SQLite-файл. На Railway укажи постоянный Volume и измени путь,
